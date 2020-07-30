@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Brunno Diego, from São Paulo - Brazil(🇧🇷). 
+I work as Ux Design / front-end developer since 2018, currently developing this function at Banco Original, 
+and with little time, you can use github as a post code.
+In my free time, I like to play (and watch) football (⚽️), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵) and eventually like to philosophize about life with a beer ( 🍺).
+
+Would you like to meet me?
+
 <!--
 **BrunnoBorges/BrunnoBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obrunnodiego)](https://www.linkedin.com/in/obrunnodiego)
